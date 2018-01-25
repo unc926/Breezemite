@@ -5,9 +5,6 @@ Place it in ~/.local/share/aurorae/themes
 
 NEW!
 ![alt tag](https://i.hizliresim.com/LbENNj.png)
-![alt tag](https://cn.pling.com/img/6/6/d/d/5ee0d8f29801ecd2f6c418d05b4c77d6173a.png)
-
-https://store.kde.org/p/1169286/
 
 ## F.A.Q.
 
